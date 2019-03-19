@@ -1,0 +1,2 @@
+本websoketdemo,是websoket知识点demo，在项目里，如果涉及到服务端向客户端推送消息的，业务，可以在demo的基础上加以修改
+WebSocket案例文件.zip，是别人大屏项目的参考案例，websoketdemo是基于这个案例修改的，可以作为参考
